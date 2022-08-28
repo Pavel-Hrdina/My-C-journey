@@ -10,6 +10,4 @@ It is important to make sure that **the repository remains structured and clean*
 
 I also try my best to **not blow my foot off** while writing the code, so it should be safe to run, on your computer, if you chose to do so.
 
-The folder is structured into three sections: notes, questions and code.
-
 I also follow [these](https://micrium.atlassian.net/wiki/spaces/osiidoc/pages/163859/C+Coding+Conventions) coding conventions...
