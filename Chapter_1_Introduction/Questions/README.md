@@ -6,8 +6,8 @@
 
 2. _What is "black box"?_
 
-Programming experience of python programmers, meaning you newer have to worry about low level programming.
+   Programming experience of python programmers, meaning you newer have to worry about low level programming.
 
 3. _Name a few advantages to programming in the C language._
 
-Speed, performance, readability, ease of use and many different use cases.
+   Speed, performance, readability, ease of use and many different use cases.
