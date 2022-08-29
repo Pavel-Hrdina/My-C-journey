@@ -10,4 +10,8 @@ It is important to make sure that **the repository remains structured and clean*
 
 I also try my best to **not blow my foot off** while writing the code, so it should be safe to run, on your computer, if you chose to do so.
 
-I also follow [these](https://micrium.atlassian.net/wiki/spaces/osiidoc/pages/163859/C+Coding+Conventions) coding conventions...
+I also try my best to follow [these](https://micrium.atlassian.net/wiki/spaces/osiidoc/pages/163859/C+Coding+Conventions) coding conventions when possible.
+
+# Content
+
+...

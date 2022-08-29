@@ -1,4 +1,4 @@
-# Questions for chapter 2
+# Answers for chapter 2
 
 1. what is a compiler
 
