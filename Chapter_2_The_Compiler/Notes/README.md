@@ -18,4 +18,4 @@ This create a file that that is normally called `a.out`
 
 5. **Library file** libraryname.a or libname.so
 
-The compiler also has the feature of errors, so that you know what wen wong on compile time. However, if the program is unsafe and compiles without errors, running the program can result in _blowing your entire leg off_.
+The compiler also has the feature of errors, so that you know what went wong on compile time. However, if the program is unsafe and compiles without errors, running the program can result in _blowing your entire leg off_.
