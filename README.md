@@ -1,6 +1,6 @@
 # My C journey
 
-The folder are structured to three sections: notes, question and code.
+The folder are structured to three sections: notes, question and code. Folders that don't contain code, don't have and exercise in the chapter. The question folder also contains a folder with answers
 
 This repository contains my journey with the c programming language. I am putting the code and the notes into separate directories. To make it easier to understand and read later on.
 
